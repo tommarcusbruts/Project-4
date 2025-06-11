@@ -33,7 +33,7 @@ Add your screenshots below to showcase the application, CI/CD workflow, or deplo
 |-------------------------------|--------------------------------------------|
 | Flask App Running Locally     | ![Flask App](screenshots/flask-app.png)    |
 | GitHub Actions Workflow       | ![GitHub Actions](screenshots/github-actions.png) |
-| App Deployed on Minikube      | ![Minikube](screenshots/minikube.png)      |
+| App Deployed on Minikube      | ![Minikube](screenshots/minikube-service.png)      |
 | `kubectl get pods` Output     | ![kubectl Pods](screenshots/kubectl-pods.png)     |
 
 *Replace the image paths with your actual screenshot locations.*
