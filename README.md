@@ -27,7 +27,7 @@ The CI/CD pipeline is configured using GitHub Actions, which runs on each push t
 7. ✅ Verified all endpoints and Prometheus metrics working inside the Kubernetes cluster.
 
 ## 🖼️ Screenshots
-Add your screenshots below to showcase the application, CI/CD workflow, or deployment steps:
+screenshots below to showcase the application, CI/CD workflow, or deployment steps:
 
 | Description                   | Screenshot                                 |
 |-------------------------------|--------------------------------------------|
@@ -36,7 +36,6 @@ Add your screenshots below to showcase the application, CI/CD workflow, or deplo
 | App Deployed on Minikube      | ![Minikube](screenshots/minikube-service.png)      |
 | `kubectl get pods` Output     | ![kubectl Pods](screenshots/kubectl-pods.png)     |
 
-*Replace the image paths with your actual screenshot locations.*
 
 ## 🏁 Conclusion
 This project showcases a fully automated CI/CD pipeline using GitHub Actions and Docker. It successfully demonstrates deployment both on local Docker and a Kubernetes environment using Minikube. This pipeline ensures code quality, reliability, and rapid delivery with continuous integration and deployment.
